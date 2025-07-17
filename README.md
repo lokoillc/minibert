@@ -1,6 +1,7 @@
 # Without Moe
 
-![模型结构图](img width="330" height="200" alt="Train_Avg_Loss" src="https://github.com/user-attachments/assets/dff72e17-c928-4e7e-b585-6774e7a72c77" /)
+Train_Avg_Loss
+<img width="330" height="200" alt="Train_Avg_Loss" src="https://github.com/user-attachments/assets/dff72e17-c928-4e7e-b585-6774e7a72c77" />
 
 Train_Loss
 <img width="330" height="200" alt="Train_Loss" src="https://github.com/user-attachments/assets/6e6fbaf3-1c74-4727-8a9c-bdf67a12a0a2" />
