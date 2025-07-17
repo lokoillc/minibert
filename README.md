@@ -1,11 +1,13 @@
 # Without Moe
-<img width="330" height="200" alt="Train_Avg_Loss" src="https://github.com/user-attachments/assets/daf3cdf3-0f6a-444e-824e-632b62f5136b" />
-<img width="330" height="200" alt="Val_F1" src="https://github.com/user-attachments/assets/c5b619d3-9d4c-48bd-a03e-c80e5e32b33a" />
-<img width="330" height="200" alt="Val_Accuracy" src="https://github.com/user-attachments/assets/779cb531-1064-4ade-9fe3-f37fdd96e1ad" />
-<img width="330" height="200" alt="Train_Loss" src="https://github.com/user-attachments/assets/db3a8bd6-d359-4ec6-8787-fe21381f4683" />
+Train_Avg_Loss<img width="330" height="200" alt="Train_Avg_Loss" src="https://github.com/user-attachments/assets/dff72e17-c928-4e7e-b585-6774e7a72c77" />
+Train_Loss<img width="330" height="200" alt="Train_Loss" src="https://github.com/user-attachments/assets/6e6fbaf3-1c74-4727-8a9c-bdf67a12a0a2" />
+Val_Accuracy<img width="330" height="200" alt="Val_Accuracy" src="https://github.com/user-attachments/assets/ae0ca1f8-7c8a-449b-b862-30884977a7f6" />
+Val_F1<img width="330" height="200" alt="Val_F1" src="https://github.com/user-attachments/assets/72c2cd90-9856-4069-97e6-3c3fd3b73ec0" />
+
+
 
 # With Moe
-<img width="330" height="200" alt="Train_Loss (1)" src="https://github.com/user-attachments/assets/61e24e03-16eb-4ffe-90fa-fab87d0d0554" />
-<img width="330" height="200" alt="Train_Avg_Loss (1)" src="https://github.com/user-attachments/assets/5154cf4c-5c8d-42b7-897c-38e274a83f20" />
-<img width="330" height="200" alt="Val_F1 (1)" src="https://github.com/user-attachments/assets/e8eb064c-9780-42b7-a970-11dbc80b5399" />
-<img width="330" height="200" alt="Val_Accuracy (1)" src="https://github.com/user-attachments/assets/d5e74e42-cfb2-4554-ba28-016c2bd672d5" />
+Train_Avg_Loss<img width="330" height="200" alt="Train_Avg_Loss (1)" src="https://github.com/user-attachments/assets/5154cf4c-5c8d-42b7-897c-38e274a83f20" />
+Train_Loss<img width="330" height="200" alt="Train_Loss (1)" src="https://github.com/user-attachments/assets/61e24e03-16eb-4ffe-90fa-fab87d0d0554" />
+Val_Accuracy<img width="330" height="200" alt="Val_Accuracy (1)" src="https://github.com/user-attachments/assets/d5e74e42-cfb2-4554-ba28-016c2bd672d5" />
+Val_F1<img width="330" height="200" alt="Val_F1 (1)" src="https://github.com/user-attachments/assets/e8eb064c-9780-42b7-a970-11dbc80b5399" />
