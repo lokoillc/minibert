@@ -1,6 +1,6 @@
 # MiniBERT 中文情感分类（支持 MoE）
 
-## 📌 项目简介
+## 项目简介
 
 本项目实现了一个 **轻量化 BERT（MiniBERT）中文情感分类模型**，并在 **Feed-Forward 层引入 Mixture of Experts (MoE)** 机制，比较了有无 MoE 在模型性能上的差异。
 模型基于 **PyTorch** 从零实现，支持：
@@ -15,7 +15,7 @@
 
 ---
 
-## 📂 项目结构
+## 项目结构
 
 ```
 MiniBERT/
@@ -41,7 +41,7 @@ MiniBERT/
 
 ---
 
-## ⚙️ 环境依赖
+## 环境依赖
 
 ```bash
 pip install torch torchvision torchaudio
@@ -53,7 +53,7 @@ pip install gradio
 
 ---
 
-## 📊 数据准备
+## 数据准备
 
 将数据集放入 `dataset/` 目录，格式为 **Parquet**，包含两列：
 
@@ -70,7 +70,7 @@ text,label
 
 ---
 
-## 🚀 训练与验证
+## 训练与验证
 
 ### 1. 普通 MiniBERT（无 MoE）
 
@@ -106,7 +106,7 @@ tensorboard --logdir=runs
 
 ---
 
-## 🌐 推理 Demo
+## 推理 Demo
 
 训练完成后，可运行 Gradio Web 界面：
 
@@ -118,7 +118,7 @@ python gradio.py
 
 ---
 
-## 📈 实验结果对比
+## 实验结果对比
 
 ### Without MoE
 
@@ -136,7 +136,7 @@ python gradio.py
 
 ---
 
-## 📊 可视化结果
+## 可视化结果
 
 下图为 **有/无 MoE** 两种情况下的训练与验证过程对比（取自 TensorBoard 导出）：
 <h2 align="center">Without MoE</h2>
